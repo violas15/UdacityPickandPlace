@@ -1,0 +1,8 @@
+prefix=/home/saviola/catkin_ws/install
+
+Name: kuka_arm
+Description: Description of kuka_arm
+Version: 0.0.0
+Cflags: -I/home/saviola/catkin_ws/install/include
+Libs: -L/home/saviola/catkin_ws/install/lib 
+Requires: 
